@@ -8,7 +8,7 @@ import (
         "log"
         "os"
         _ "runtime/trace"
-        pb "github.com/golang/demo/proto/perils"
+        pb "github.com/golang/demo/ps/ps_proto"
         "golang.org/x/net/context"
         "google.golang.org/grpc"
 )
